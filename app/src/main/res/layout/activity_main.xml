@@ -51,7 +51,7 @@
             android:layout_height="wrap_content"
             android:hint="Digite sua altura"
             android:inputType="numberDecimal"
-            android:maxLength="5"/>
+            android:maxLength="4"/>
     </com.google.android.material.textfield.TextInputLayout>
 
 

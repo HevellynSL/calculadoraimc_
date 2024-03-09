@@ -3,6 +3,7 @@ package com.comunidadedevspace.imc
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
+import com.google.android.material.snackbar.Snackbar
 import com.google.android.material.textfield.TextInputEditText
 import com.google.android.material.textfield.TextInputLayout
 
@@ -17,26 +18,28 @@ class MainActivity : AppCompatActivity() {
 
         botao.setOnClickListener{
 
-            val pesoStr= edt_peso.toString()
-            val alturaStr= edt_altura.toString()
+            val pesoStr= edt_peso.text.toString()
+            val alturaStr= edt_altura.text.toString()
 
-            if (alturaStr.isNotEmpty()&& pesoStr.isNotEmpty()){
+            if (pesoStr == "" || alturaStr == ""  ) {
+                Snackbar
+                    .make(
+                    edt_peso,
+                    "Preencha todos os campos",
+                    Snackbar.LENGTH_LONG
+                )
+                    .show()
 
-                val peso : Float = edt_peso.text.toString().toFloat()
-                val altura: Float = edt_altura.text.toString().toFloat()
+            } else {
 
-                val alturafinal: Float = altura * altura
-                val result: Float = peso / alturafinal
+                val peso = pesoStr.toFloat()
+                val altura = alturaStr.toFloat()
 
+                val alturafinal = altura * altura
+                val result = peso / alturafinal
 
-
-
-
-
-
+                println("Hevellyn" + result)
             }
-
-
         }
     }
 }
