@@ -1,12 +1,24 @@
 # Calculadora IMC
-Desc
+Esse novo projeto sobre a Calculadora IMC é uma atualização do projeto já presente aqui. Tendo como principal função calcular o índice de massa corporal.
 
 ## :camera_flash: Screenshots
-<!-- You can add more screenshots here if you like -->
-Screenshots
+
+<img src ="https://github.com/HevellynSL/calculadoraimc_/assets/155830522/ef86e3ab-c216-4cb1-92df-8aa0fc6e1e15" width = 160/> <img src ="https://github.com/HevellynSL/calculadoraimc_/assets/155830522/f3a2671e-1049-4648-b821-7bb24c6842a7" width = 160/>  <img src ="https://github.com/HevellynSL/calculadoraimc_/assets/155830522/5ad2e982-635c-4705-a855-06c4a27e9cc2" width = 160/> 
 
 ## Tecnologias
-Techs
+
+- Activity
+- Intent
+- Snackbar
+- ViewGroups
+  - LinearLayout
+  - ConstraintLayout
+
+ - Views 
+   - ImageView
+   - TextView
+   - EditText
+   - Button
 
 
 ## License
