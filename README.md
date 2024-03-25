@@ -1,9 +1,9 @@
 # Calculadora IMC
-Esse novo projeto sobre a Calculadora IMC é uma atualização do projeto já presente aqui. Tendo como principal função calcular o índice de massa corporal.
+Esse é meu mais novo projeto, que visa facilitar o planejamento de uma viagem que será feita de carro. 
 
 ## :camera_flash: Screenshots
 
-<img src ="https://github.com/HevellynSL/calculadoraimc_/assets/155830522/ef86e3ab-c216-4cb1-92df-8aa0fc6e1e15" width = 160/> <img src ="https://github.com/HevellynSL/calculadoraimc_/assets/155830522/f3a2671e-1049-4648-b821-7bb24c6842a7" width = 160/>  <img src ="https://github.com/HevellynSL/calculadoraimc_/assets/155830522/5ad2e982-635c-4705-a855-06c4a27e9cc2" width = 160/> 
+<img src ="https://github.com/HevellynSL/calculadoraimc_/assets/155830522/ed4d173a-cd4f-46d6-9035-7af5cbda407a" width = 160/> <img src ="https://github.com/HevellynSL/calculadoraimc_/assets/155830522/f2c82fb5-5a5b-4869-a421-bc3e9d5fa20b" width = 160/>  <img src ="https://github.com/HevellynSL/calculadoraimc_/assets/155830522/27644560-a720-4fe5-b3dc-2caecbe6d053" width = 160/> <img src="https://github.com/HevellynSL/calculadoraimc_/assets/155830522/dcf5312d-d292-4ebe-ac06-d3f312eed44a" width = 160/>  <img src ="https://github.com/HevellynSL/calculadoraimc_/assets/155830522/a21f38fa-b811-4fe5-8dda-f71caf64be83" width = 160/> <img src = "https://github.com/HevellynSL/calculadoraimc_/assets/155830522/591b13d9-e519-4c84-8f9f-d50b3f4ca815" width = 160/>
 
 ## Tecnologias
 
@@ -19,28 +19,19 @@ Esse novo projeto sobre a Calculadora IMC é uma atualização do projeto já pr
    - TextView
    - EditText
    - Button
+  
+  - Recursos gráficos
+   - drawable
+
+Fonte de imagens 
+<a href="https://www.freepik.com/free-vector/sightseeing-tour-landmark-visit-milestone-accomplishment-moving-forward-roadmap-progress-decorative-design-element-gps-navigation-location-pin_12146023.htm">Image by vectorjuice</a> on Freepik
+
+<a href="https://www.freepik.com/free-vector/front-car-concept-illustration_20863876.htm">Image by storyset</a> on Freepik
+
+<a href="https://www.freepik.com/free-vector/upset-man-filling-tank-car-with-gasoline-biodiesel-happy-person-saving-money-by-riding-skateboard-flat-vector-illustration-finances-economy-fuel-transportation-concept-banner_24645016.htm">Image by pch.vector</a> on Freepik 
+
+Icone
+<a href="https://www.freepik.com/free-vector/upset-man-filling-tank-car-with-gasoline-biodiesel-happy-person-saving-money-by-riding-skateboard-flat-vector-illustration-finances-economy-fuel-transportation-concept-banner_24645016.htm">Image by pch.vector</a> on Freepik
 
 
-## License
-```
-The MIT License (MIT)
 
-Copyright (c) 2023 Roque Buarque Junior
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of
-this software and associated documentation files (the "Software"), to deal in
-the Software without restriction, including without limitation the rights to
-use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
-the Software, and to permit persons to whom the Software is furnished to do so,
-subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
-FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
-COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
-IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
-CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-```
