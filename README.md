@@ -1,5 +1,5 @@
 # Calculadora IMC
-Esse é meu mais novo projeto, que visa facilitar o planejamento de uma viagem que será feita de carro. 
+Projeto Android desenvolvido para calcular o Índice de Massa Corporal (IMC) de forma prática e rápida, com uma interface intuitiva e responsiva.
 
 ## :camera_flash: Screenshots
 
@@ -8,9 +8,12 @@ Esse é meu mais novo projeto, que visa facilitar o planejamento de uma viagem q
 
 ## Tecnologias
 
+- Kotlin
+- Android Studio
 - Activity
 - Intent
 - Snackbar
+
 - ViewGroups
   - LinearLayout
   - ConstraintLayout
@@ -20,6 +23,10 @@ Esse é meu mais novo projeto, que visa facilitar o planejamento de uma viagem q
    - TextView
    - EditText
    - Button
+  
+  ## Funcionalidades
+  - Cálculo automático do IMC baseado no peso e altura do utlizador.
+  - Classificação do IMC de acordo com faixas padrão.
   
 
 The MIT License (MIT)
